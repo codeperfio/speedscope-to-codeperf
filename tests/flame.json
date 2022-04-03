@@ -1,0 +1,97 @@
+{
+  "n": "root",
+  "f": "root",
+  "v": 0,
+  "c": [
+    {
+      "n": "launch",
+      "f": "testing.(*B).launch",
+      "v": 1234,
+      "c": [
+        {
+          "n": "runN",
+          "f": "testing.(*B).runN",
+          "v": 1234,
+          "c": [
+            {
+              "n": "BenchmarkFib10",
+              "f": "example-go.BenchmarkFib10",
+              "v": 1234,
+              "c": [
+                {
+                  "n": "Fib",
+                  "f": "example-go.Fib",
+                  "v": 1224,
+                  "c": [
+                    {
+                      "n": "Fib",
+                      "f": "example-go.Fib",
+                      "v": 1217,
+                      "c": [
+                        {
+                          "n": "Fib",
+                          "f": "example-go.Fib",
+                          "v": 1193,
+                          "c": [
+                            {
+                              "n": "Fib",
+                              "f": "example-go.Fib",
+                              "v": 1155,
+                              "c": [
+                                {
+                                  "n": "Fib",
+                                  "f": "example-go.Fib",
+                                  "v": 1082,
+                                  "c": [
+                                    {
+                                      "n": "Fib",
+                                      "f": "example-go.Fib",
+                                      "v": 952,
+                                      "c": [
+                                        {
+                                          "n": "Fib",
+                                          "f": "example-go.Fib",
+                                          "v": 758,
+                                          "c": [
+                                            {
+                                              "n": "Fib",
+                                              "f": "example-go.Fib",
+                                              "v": 423,
+                                              "c": [
+                                                {
+                                                  "n": "Fib",
+                                                  "f": "example-go.Fib",
+                                                  "v": 121,
+                                                  "c": [
+                                                    {
+                                                      "n": "Fib",
+                                                      "f": "example-go.Fib",
+                                                      "v": 13,
+                                                      "c": []
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
